@@ -29,6 +29,7 @@ III. References
 Mr. Paul Jason Perez
 www.w3schools.com
 www.getbootstrap.com
+Google Images
 
 TIMELINE
 SEPT 16: > PLANNIING
