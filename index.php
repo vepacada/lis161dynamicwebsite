@@ -66,7 +66,8 @@
     <p><a href="server.php?logout=1" class="btn btn-warning">Logout</a></p>
 <?php } else { ?>
   <p>Welcome to my website! <strong></strong></p>
-    <p><a href="login.php" class="btn btn-primary">Login</a><a href="register.php" class="btn btn-primary">Register</a></p>
+    <p><a href="login.php" class="btn btn-primary">Login</a>
+       <a href="register.php" class="btn btn-primary">Register</a></p>
 <?php } ?>
 </div>
 
