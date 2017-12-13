@@ -39,6 +39,7 @@
   </div>
 </nav>
 
+<div class="container">
 <!-- Alert Message -->
   <?php if (isset($_SESSION['message'])) { ?>
     <div class="alert alert-success">
@@ -67,8 +68,9 @@
 <?php } else { ?>
   <p>Welcome to my website! <strong></strong></p>
     <p><a href="login.php" class="btn btn-primary">Login</a>
-       <a href="register.php" class="btn btn-primary">Register</a></p>
+    <a href="register.php" class="btn btn-primary">Register</a></p>
 <?php } ?>
+</div>
 </div>
 
 <!-- Home -->
